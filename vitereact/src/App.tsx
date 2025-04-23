@@ -7,8 +7,7 @@ import { useAppSelector } from '@/store/main';
 import GV_TopBar from '@/components/views/GV_TopBar.tsx';import GV_UserMenu from '@/components/views/GV_UserMenu.tsx';
 import GV_QuickAddMenu from '@/components/views/GV_QuickAddMenu.tsx';
 import GV_SearchDropdown from '@/components/views/GV_SearchDropdown.tsx';
-import GV_Modal_NewProject from '@/components/views/GV_Modal_NewProject.tsx';
-import GV_Modal_QuickAddTask from '@/components/views/GV_Modal_QuickAddTask.tsx';
+import GV_Modal_NewProject from '@/components/views/GV_Modal_NewProject';import GV_Modal_QuickAddTask from '@/components/views/GV_Modal_QuickAddTask.tsx';
 import GV_Modal_InviteMembers from '@/components/views/GV_Modal_InviteMembers.tsx';
 import GV_Modal_Confirmation from '@/components/views/GV_Modal_Confirmation.tsx';
 
